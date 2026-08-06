@@ -106,3 +106,12 @@
 ## 💭 Quote
 
 > **"Success is built one commit at a time."**
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Hadi-DEV1/Hadi-DEV1/output/github-contribution-grid-snake.svg"/>
+
+</p>
