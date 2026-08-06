@@ -5,11 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Learning+Programming+Fundamentals;C%2B%2B+%7C+Python;Future+Full-Stack+Developer;Always+Learning+Something+New" />
 </p>
----
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
 </p>
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hadi-DEV1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
