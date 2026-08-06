@@ -5,56 +5,42 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Learning+Programming+Fundamentals;C%2B%2B+%7C+Python;Future+Full-Stack+Developer;Always+Learning+Something+New" />
 </p>
+---
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
 </p>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hadi-DEV1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hadi-DEV1&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/German-Learning-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20To-Learning-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-- 🇪🇬 Based in Egypt
-- 🎓 Faculty of Arts, Alexandria University
-- 💻 Currently studying **Programming Fundamentals** with **C++** and **Python**
-- 🇩🇪 Learning German (Deutsch)
-- 🎯 My goal is to deeply understand every concept I learn and build software that creates real value.
-- 🚀 My long-term goal is to become a professional Full-Stack Developer.
-
----
-
-# 📚 Currently Learning
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td>
 
-### 💻 Programming
+<td width="55%">
 
-- C++
-- Python
-- Programming Fundamentals
-
-</td>
-
-<td>
-
-### 🌍 Languages
-
-- German 🇩🇪
+- 🇪🇬 Based in Egypt
+- 🎓 Faculty of Arts, Alexandria University
+- 💻 Learning Programming Fundamentals
+- 🐍 Studying C++ & Python
+- 🇩🇪 Learning German
 
 </td>
 
-<td>
+<td width="45%">
 
-### 🛠 Tools
-
-- Git
-- GitHub
-- VS Code
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi-DEV1&layout=compact&theme=tokyonight"/>
 
 </td>
 
@@ -63,28 +49,38 @@
 
 ---
 
-# 🛣️ Learning Roadmap
+## 📚 Currently Learning
 
-### Programming Journey
-
-- ✅ Programming Fundamentals
-- 🔄 C++
-- 🔄 Python
-- ⏳ Object-Oriented Programming
-- ⏳ Data Structures & Algorithms
-- ⏳ Databases (SQL)
-- ⏳ HTML
-- ⏳ CSS
-- ⏳ JavaScript
-- ⏳ React
-- ⏳ Node.js
-- ⏳ Full-Stack Development
-
-> Every milestone represents another step toward becoming the developer I aspire to be.
+| 💻 Programming | 🌍 Language | 🛠 Tools |
+|---------------|------------|----------|
+| Programming Fundamentals | German 🇩🇪 | VS Code |
+| C++ | | Git |
+| Python | | GitHub |
 
 ---
 
-# 🧰 Tools & Technologies
+## 🛣️ Learning Roadmap
+
+```text
+✅ Programming Fundamentals
+🔄 C++
+🔄 Python
+⬜ Object-Oriented Programming
+⬜ Data Structures & Algorithms
+⬜ SQL
+⬜ HTML
+⬜ CSS
+⬜ JavaScript
+⬜ React
+⬜ Node.js
+⬜ Full-Stack Development
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Current
 
 <p align="center">
 
@@ -92,67 +88,57 @@
 
 </p>
 
-### Technologies I'm planning to learn
+### Next Technologies
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql"/>
 
 </p>
----
-# 🏅 Achievements
-
-- 🎓 Studying Programming Fundamentals.
-- 📚 Learning C++ and Python.
-- 🇩🇪 Learning German.
-- 🚀 Building my GitHub profile from day one.
----
-# 📌 What You'll Find Here
-
-This GitHub profile documents my journey from learning programming fundamentals to becoming a Full-Stack Developer.
-
-You'll find:
-
-- 🚀 Learning projects
-- 💻 Programming exercises
-- 🌐 Web development projects
-- 🧠 Problem-solving practice
-- 📖 Notes and experiments
-- 📈 Continuous progress
 
 ---
 
-# 🎯 My Mission
+## 📌 What You'll Find Here
 
-I believe that writing code is only a small part of being a software engineer.
-
-My goal is to deeply understand every concept I learn, build reliable software, solve real-world problems, and continuously improve my skills to create value for people and the technology community.
+- 🚀 Learning Projects
+- 💻 Programming Exercises
+- 🌐 Future Web Development Projects
+- 🧠 Problem Solving
+- 📖 Notes & Experiments
+- 📈 My Learning Journey
 
 ---
 
-# 📊 GitHub Stats
+## 🎯 My Mission
+
+```cpp
+while (learning)
+{
+    understand();
+    practice();
+    build();
+    improve();
+}
+```
+
+> I don't want to memorize code.  
+> I want to understand how software works and build solutions that create real value.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hadi-DEV1&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hadi-DEV1&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi-DEV1&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Hadi-DEV1&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hadi-DEV1&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -162,7 +148,7 @@ My goal is to deeply understand every concept I learn, build reliable software, 
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -172,37 +158,37 @@ My goal is to deeply understand every concept I learn, build reliable software, 
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Hadi-DEV1">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ahmedabdelhady21">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:ahmedkhalafawe880@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/ahmedhadi191/">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
+## 💬 Quote
 
 > **"The expert in anything was once a beginner."**
 
@@ -210,10 +196,8 @@ My goal is to deeply understand every concept I learn, build reliable software, 
 
 <p align="center">
 
-### 👋 Thanks for stopping by!
+⭐ Thanks for visiting my profile!
 
-I'm documenting my learning journey one project at a time.
-
-⭐ Feel free to explore my repositories and follow my progress.
+I'm documenting my journey from programming fundamentals to becoming a Full-Stack Developer.
 
 </p>
