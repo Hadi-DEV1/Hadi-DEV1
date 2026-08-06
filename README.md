@@ -27,3 +27,24 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
 
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hadi-DEV1&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi-DEV1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hadi-DEV1&theme=tokyonight"/>
+
+</p>
