@@ -7,7 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Front-End+Development;Learning+Python;Building+Projects+Every+Day" />
 
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hadi-DEV1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -28,6 +30,16 @@
 
 </p>
 ---
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build 20+ Front-End Projects
+- 🌐 Master HTML, CSS & JavaScript
+- 🐍 Improve Python Programming Skills
+- ⚛️ Learn React.js
+- 💼 Get My First Internship
+- ⭐ Contribute to Open Source
 
 ## 📊 GitHub Stats
 
@@ -48,3 +60,49 @@
 <img src="https://streak-stats.demolab.com?user=Hadi-DEV1&theme=tokyonight"/>
 
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hadi-DEV1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadi-DEV1&theme=tokyo-night"/>
+
+</p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ahmedabdelhady21">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:ahmedkhalafawe880@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Hadi-DEV1">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</p>
+---
+
+## 💭 Quote
+
+> **"Success is built one commit at a time."**
